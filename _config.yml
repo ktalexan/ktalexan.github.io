@@ -9,7 +9,10 @@ name: Dr. Kostas Alexandridis, GISP
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/ktalexan/ktalexan.github.io/blob/main/images/ka-logo.png
+avatar: https://raw.githubusercontent.com/ktalexan/ktalexan.github.io/main/images/ka-logo.png
+#https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+#https://github.com/ktalexan/ktalexan.github.io/blob/main/images/ka-logo.png
+
 
 #
 # Flags below are optional
