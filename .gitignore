@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -126,6 +127,18 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+=======
+_site
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+>>>>>>> cca771e40f4f6fc945f6435604e7c32680f03399
 
 # Environments
 .env
@@ -136,6 +149,7 @@ ENV/
 env.bak/
 venv.bak/
 
+<<<<<<< HEAD
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -173,6 +187,8 @@ cython_debug/
 # Learn more at https://abstra.io/docs
 .abstra/
 
+=======
+>>>>>>> cca771e40f4f6fc945f6435604e7c32680f03399
 # Visual Studio Code
 #  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
 #  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
@@ -180,6 +196,7 @@ cython_debug/
 #  you could uncomment the following to ignore the enitre vscode folder
 .vscode/
 *.code-workspace
+<<<<<<< HEAD
 
 # Ruff stuff:
 .ruff_cache/
@@ -214,3 +231,5 @@ sys.*
 *.o
 *.so
 *.dylib
+=======
+>>>>>>> cca771e40f4f6fc945f6435604e7c32680f03399
